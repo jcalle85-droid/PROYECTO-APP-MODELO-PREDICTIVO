@@ -27,7 +27,7 @@ Contiene los documentos teóricos del proyecto, análisis del problema y justifi
 /Diagramas
 Incluye diagramas de flujo, arquitectura del sistema y diagramas del funcionamiento de la aplicación.
 
-/Diseño_App
+/Bases
 Contiene el diseño de la interfaz de la aplicación y prototipos.
 
 /Datos
